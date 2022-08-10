@@ -9,11 +9,11 @@ page-layout: full
 
 ::::columns
 :::{.column width=45%}
-# Introduction to Probability and Statistics{style="font-size: 2em"}
+# Introduction to Probability and Statistics
 
 [Stat 20 UC Berkeley]{.smallcaps}
 
-[For information about the course, please [see the FAQ](syllabus.qmd).]{style="font-size: .5em"}
+For information about the course, please [see the FAQ](syllabus.qmd).
 
 :::
 :::{.column width=10%}
