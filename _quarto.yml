@@ -3,10 +3,13 @@ project:
 
 website:
   title: "Stat 20"
+  search: false
+  site-url: "https://www.stat20.org/"
+  repo-url: "https://github.com/stat20/website"
+  page-navigation: true
   navbar:
-    search: false
     background: white
-    foreground: black
+    foreground: "gray-800"
     right:
       - href: syllabus.qmd
         text: FAQ
