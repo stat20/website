@@ -1,24 +1,30 @@
 ---
 toc: false
-page-layout: full
+page-layout: custom
 # listing:
 #   id: recent-labs
 #   contents: labs
 #   page-size: 2
 ---
 
-::::columns
-:::{.column width=45%}
-# Introduction to Probability and Statistics
+::::{.grid style="margin: 0em 2em 0em 2em"}
+:::{.g-col-12 .g-col-md-6 style="margin: 3em 1em 0em 1em"}
+
+\
+\
+\
+
+:::{.banner-text}
+Introduction to Probability and Statistics
+:::
 
 [Stat 20 UC Berkeley]{.smallcaps}
 
 For information about the course, please [see the FAQ](syllabus.qmd).
 
 :::
-:::{.column width=10%}
-:::
-:::{.column width=45%}
+
+:::{.g-col-12 .g-col-md-6 style="margin: 0em 1em 0em 1em"}
 ![](images/stat20-hex.png){fig-alt="Hex logo of Stat 20 showing a golden bear."}
 :::
 ::::
