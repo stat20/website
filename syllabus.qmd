@@ -1,12 +1,15 @@
----
-title: "FAQ"
----
+
+# FAQ
+
+1. Are class sessions recorded?
+
+  No. Class sessions feature a mix of group problem solving, activities, and discussion and don't lend themselves to recording. The course notes are the main reference source for the course. Any materials used during the class session will be posted to the course website.
 
 1. Is attendance required?
    
    No, but it is difficult to succeed in this course if you are not regularly attending class. Class sessions are designed to be an effective and efficient format to make progress on important assignments. Plus, it's a great way to meet your fellow students and learn from one another!
    
-2. What if I join the class late?
+1. What if I join the class late?
 
    If you join the class within the first two weeks, read this course syllabus very carefully, read through the class forum to get a sense of any assignments that may have already passed, and visit office hours to check that you're up to date with things. The first two weeks of material are very important so you will be able to make up assignments.
    
