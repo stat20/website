@@ -7,7 +7,8 @@ page-layout: custom
 #   page-size: 2
 ---
 
-::::{.grid style="margin: 0em 2em 0em 2em"}
+:::::{.content-block}
+::::{.grid}
 :::{.g-col-12 .g-col-md-6 style="margin: 3em 1em 0em 1em"}
 
 \
@@ -28,6 +29,7 @@ For information about the course, please [see the FAQ](syllabus.qmd).
 ![](images/stat20-hex.png){fig-alt="Hex logo of Stat 20 showing a golden bear."}
 :::
 ::::
+:::::
 
 <!-- ::::columns -->
 <!-- :::{.column width=5%} -->
