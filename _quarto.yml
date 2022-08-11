@@ -22,7 +22,7 @@ format:
   html:
     theme: 
       - sandstone
-      - styles.scss
+      - assets/styles.scss
 
 execute:
   freeze: auto

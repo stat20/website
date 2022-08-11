@@ -26,7 +26,7 @@ For information about the course, please [see the FAQ](syllabus.qmd).
 :::
 
 :::{.g-col-12 .g-col-md-6 style="margin: 0em 1em 0em 1em"}
-![](images/stat20-hex.png){fig-alt="Hex logo of Stat 20 showing a golden bear."}
+![](assets/stat20-hex.png){fig-alt="Hex logo of Stat 20 showing a golden bear."}
 :::
 ::::
 :::::
