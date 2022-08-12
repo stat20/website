@@ -1,0 +1,28 @@
+---
+title: Schedule
+toc: true
+---
+
+
+
+
+## I. Questions and Data
+
+### Models and Data (8/24)
+
+- Lecture Notes
+- Slides
+
+### Where Data Comes From (8/27)
+
+- Lecture Notes
+- Slides
+- Lab 1: Getting Started
+
+## II. Describing Data
+
+## III. Making Predictions
+
+## IV. Making Generalizations
+
+## V. Causality

@@ -1,0 +1,9 @@
+---
+title: Lecture Notes
+listing:
+  contents: lecture-notes
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
