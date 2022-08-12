@@ -11,12 +11,32 @@ website:
     background: white
     foreground: "gray-800"
     right:
-      - href: syllabus.qmd
-        text: FAQ
-      # - href: schedule.qmd
-      #   text: Schedule
-      # - href: labs/index.qmd
-      #   text: Labs
+      - text: FAQ
+        href: syllabus.qmd
+      - text: Schedule
+        href: schedule/index.qmd
+      - text: Notes
+        href: notes/index.qmd
+      - text: Labs
+        href: labs/index.qmd
+  # sidebar:
+  #   - id: schedule
+  #     title: "Schedule"
+  #     style: "floating"
+  #     align: left
+  #     contents:
+  #         - text: "Schedule"
+  #           href: schedule/index.qmd
+  #         - text: "1. Questions and Data"
+  #           href: schedule/1-questions-and-data/index.qmd
+  #         - text: "2. Describing Data"
+  #           href: schedule/2-describing-data/index.qmd
+  #         - text: "3. Predictions"
+  #           href: schedule/3-predictions/index.qmd
+  #         - text: "4. Generalizations"
+  #           href: schedule/4-generalizations/index.qmd
+  #         - text: "5. Causality"
+  #           href: schedule/5-causality/index.qmd
 
 format:
   html:
