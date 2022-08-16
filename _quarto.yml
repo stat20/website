@@ -22,11 +22,11 @@ website:
       - text: FAQ
         href: syllabus.qmd
       - text: Schedule
-        href: schedule/index.qmd
+        href: schedule.qmd
       - text: Notes
-        href: notes/index.qmd
+        href: notes.qmd
       - text: Labs
-        href: labs/index.qmd
+        href: labs.qmd
     right:
       - text: "{{< fa comments >}}"
         href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022
