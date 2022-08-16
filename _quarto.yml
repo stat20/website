@@ -3,14 +3,22 @@ project:
 
 website:
   title: "Stat 20"
+  description: "this is a descr"
   search: false
   site-url: "https://www.stat20.org/"
   repo-url: "https://github.com/stat20/website"
+  favicon: assets/favicon.ico
+  image: assets/stat20-hex-small.png
+  open-graph: true
+  twitter-card: true
   page-navigation: true
   navbar:
+    title: " "
+    logo: assets/stat20-hex-small.png
     background: white
     foreground: "gray-800"
-    right:
+    collapse-below: sm
+    left:
       - text: FAQ
         href: syllabus.qmd
       - text: Schedule
@@ -19,6 +27,33 @@ website:
         href: notes/index.qmd
       - text: Labs
         href: labs/index.qmd
+    right:
+      - text: "{{< fa comments >}}"
+        href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022
+        aria-label: Perusall Discussion Forum
+      - text: "{{< fa chart-column >}}"
+        href: https://www.gradescope.com/courses/416233
+        aria-label: Gradescope
+      - text: "{{< fa brands r-project >}}"
+        href: https://stat20.datahub.berkeley.edu/
+        aria-label: RStudio
+  page-footer: 
+    background: white
+    foreground: "gray-800"
+    border: false
+    center: 
+      - text: "{{< fa comments >}}"
+        href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022
+        aria-label: Perusall Discussion Forum
+      - text: "{{< fa chart-column >}}"
+        href: https://www.gradescope.com/courses/416233
+        aria-label: Gradescope
+      - text: "{{< fa brands r-project >}}"
+        href: https://stat20.datahub.berkeley.edu/
+        aria-label: RStudio
+    right:
+      - text: This is an open source project.
+        href: license.qmd
   # sidebar:
   #   - id: schedule
   #     title: "Schedule"
