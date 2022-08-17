@@ -5,7 +5,7 @@ toc: false
 
 :::{.callout-caution}
 ## 
-This page will be under construction until the start of the semester.
+This page will be under construction until the start of the semester. 
 :::
 
 **Class Sessions**: 2 hr blocks on Wednesday and Friday\
