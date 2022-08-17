@@ -7,5 +7,8 @@ listing:
   categories: true
 ---
 
-Readings, slides, and other resources used in each class session. Readings should be done in advance of the date listed, with reading questions due on Gradescope by 11 pm on the preceding evening.
+:::{.callout-caution}
+## 
+This page will be under construction until the start of the semester.
+:::
 
