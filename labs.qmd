@@ -1,0 +1,9 @@
+---
+title: Labs
+listing:
+  contents: labs
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
