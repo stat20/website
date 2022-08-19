@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: 1188ba29-f00d-4f5a-ac6f-75c715522c69
-      url: 'https://www.stat20.org'
+    - id: f9b06f14-e32a-4e79-8bc6-4caec99a5775
+      url: 'https://stat20-staging.netlify.app'
