@@ -3,6 +3,11 @@ title: Schedule
 toc: false
 ---
 
+:::{.callout-caution}
+## 
+This page will be under construction until the start of the semester. 
+:::
+
 **Class Sessions**: 2 hr blocks on Wednesday and Friday\
 **Workshop**: 1 hr Monday\
 **Reading Questions due**: 11 pm Tuesday and Thursday\
@@ -11,6 +16,7 @@ toc: false
 ```{r}
 #| echo: false
 #| message: false
+#| eval: false
 
 # 1. Reads in the course schedule from csv downloaded from 
 # an associated google sheet: https://docs.google.com/spreadsheets/d/1PWuMkcQX2PUd84zDUmBe2tRI2Lfsam1-435JQ1A2GAE/edit#gid=0
