@@ -1,0 +1,23 @@
+---
+title: "The Taxonomy of Data"
+date: "08/26/2022"
+format:
+    html: default
+    pdf: default
+---
+
+{{< include ../../assets/_button-links.qmd >}}
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehend erit officiis. Et deleniti quidem eos nihil temporeest omnis quia non illum magnam sit enim suscipit Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehenderit officiis. Et deleniti quidem eos nihil tempore est omnis quia non illum magnam sit enim suscipit. Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehenderit officiis. Et deleniti quidem eos nihil tempore est omnis quia non illum magnam sit enim suscipit. Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehenderit officiis. Et deleniti quidem eos nihil tempore est omnis quia non illum magnam sit enim suscipit. Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehenderit officiis. Et deleniti quidem eos nihil tempore est omnis quia non illum magnam sit enim suscipit. Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+Lorem ipsum dolor sit amet. At praesentium iure qui quia quidem et dignissimos tempore et repudiandae nesciunt hic animi esse in quod reiciendis et reprehenderit officiis. Et deleniti quidem eos nihil tempore est omnis quia non illum magnam sit enim suscipit. Qui adipisci nihil quo vitae consequatur ut delectus consectetur eos voluptates ipsum.
+
+{{< include ../../assets/_links-to-materials.qmd >}}
