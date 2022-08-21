@@ -1,4 +1,3 @@
-
 ## Materials from class
 
 ```{r}
@@ -6,13 +5,15 @@
 #| echo: false
 #| output: asis
 #| message: false
+#| warning: false
 
 library(stringr)
+
 f <- list.files()
 
 # slides
 
-n_slides <- sum(str_detect(f, "slides-?[a-zA-Z]*.html"))
+n_slides <- sum(str_detect(f, "slides-?[a-zA-Z]*.qmd"))
 
 if (n_slides > 0) {
     cat("#### Slides\n\n ")
@@ -23,13 +24,15 @@ if (n_slides == 1) {
 }
 
 if (n_slides > 1) {
-    slide_files <- str_subset(f, "slides-[a-zA-Z]*.html")
-    slide_names <- slide_files %>%
+    slide_qmds <- str_subset(f, "slides-[a-zA-Z]*.qmd")
+    slide_htmls <- slide_qmds %>%
+        str_replace("qmd", "html")
+    slide_names <- slide_qmds %>%
         str_replace("slides-", "") %>%
-        str_replace(".html", "") %>%
+        str_replace(".qmd", "") %>%
         str_to_title()
     for (i in seq_along(slide_names)) {
-        cat(paste0("- [", slide_names[i], "](", slide_files[i], ")\n"))
+        cat(paste0("- [", slide_names[i], "](", slide_htmls[i], ")\n"))
     }
 }
 
@@ -37,8 +40,14 @@ cat("\n")
 
 # handouts
 
-n_handouts <- sum(str_detect(f, "handout.pdf"))
+n_handouts <- sum(str_detect(f, "handout.qmd"))
 if (n_handouts > 0) {
     cat("#### Handouts\n\n - [Handout](handout.pdf) \n")
+}
+
+# none
+
+if (n_slides == 0 & n_handouts == 0) {
+    cat("None.")
 }
 ```
