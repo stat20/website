@@ -1,0 +1,4 @@
+
+::: {.content-visible when-format="html"}
+[[PDF]{.btn .btn-primary}](notes.pdf){style="download"} [[Perusall]{.btn .btn-warning}](https://app.perusall.com) [[Reading Questions]{.btn .btn-success}](https://www.gradescope.com/courses/416233)
+:::
