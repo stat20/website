@@ -6,8 +6,3 @@ listing:
   type: default
   categories: true
 ---
-
-:::{.callout-caution}
-## 
-This page will be under construction until the start of the semester.
-:::

@@ -1,14 +1,11 @@
 ---
 title: Lecture Notes
 listing:
-  contents: notes
+  contents:
+      - "class-materials/*/notes.qmd"
   sort: "date desc"
   type: default
   categories: true
 ---
 
-:::{.callout-caution}
-## 
-This page will be under construction until the start of the semester.
-:::
-
+Here is a description of what's going on with lecture notes.
