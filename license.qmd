@@ -2,6 +2,3 @@
 title: License
 toc: false
 ---
-
-
-Here's the license
