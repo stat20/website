@@ -21,7 +21,7 @@ Introduction to Probability and Statistics
 
 [Stat 20 UC Berkeley]{.smallcaps}
 
-For information about the course, please [see the FAQ](syllabus.qmd).
+For information about the course, please [see the syllabus](syllabus.qmd).
 
 :::
 

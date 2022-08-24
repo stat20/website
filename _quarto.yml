@@ -19,7 +19,7 @@ website:
     foreground: "gray-800"
     collapse-below: sm
     left:
-      - text: FAQ
+      - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
         href: schedule.qmd
@@ -27,6 +27,8 @@ website:
         href: notes.qmd
       - text: Labs
         href: labs.qmd
+      - text: Problem Sets
+        href: problem-sets.qmd
     right:
       - text: "{{< fa comments >}}"
         href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022

@@ -1,11 +1,9 @@
 ---
 title: Lecture Notes
 listing:
-  contents: notes
+  contents:
+      - "class-materials/*/notes.qmd"
   sort: "date desc"
   type: default
   categories: true
 ---
-
-Readings, slides, and other resources used in each class session. Readings should be done in advance of the date listed, with reading questions due on Gradescope by 11 pm on the preceding evening.
-
