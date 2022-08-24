@@ -31,7 +31,7 @@ website:
         href: problem-sets.qmd
     right:
       - text: "{{< fa comments >}}"
-        href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022
+        href: https://app.perusall.com/
         aria-label: Perusall Discussion Forum
       - text: "{{< fa chart-column >}}"
         href: https://www.gradescope.com/courses/416233
@@ -45,7 +45,7 @@ website:
     border: false
     center: 
       - text: "{{< fa comments >}}"
-        href: https://app.perusall.com/courses/introduction-to-probability-and-statistics-fall-2022
+        href: https://app.perusall.com/
         aria-label: Perusall Discussion Forum
       - text: "{{< fa chart-column >}}"
         href: https://www.gradescope.com/courses/416233
