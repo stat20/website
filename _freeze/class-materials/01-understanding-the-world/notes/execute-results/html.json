@@ -1,7 +1,7 @@
 {
-  "hash": "c0dbe7940f35b6980b49473a06f282bd",
+  "hash": "d1bc355f5b5a8673047c7d83f7726f04",
   "result": {
-    "markdown": "---\ntitle: \"Understanding the World through Data\"\ndate: \"08/24/2022\"\n---\n\n\nThere is no reading in advance of the first day of class. To view the materials used during the class session, see the links below. \n\n\n## Materials from class\n\n#### Slides\n\n - [Andrew](slides-andrew.html)\n- [Iain](slides-iain.html)\n- [Jeremy](slides-jeremy.html)\n- [Shobhana](slides-shobhana.html)\n\n#### Handouts\n\n - [Handout](handout.pdf) \n\n",
+    "markdown": "---\ntitle: \"Understanding the World through Data\"\ndate: \"08/24/2022\"\nimage: images/claims.png\n---\n\n\nWelcome to Stat 20!\n\nThere is no reading in advance of the first day of class. To view the materials used during the class session, see the links below. \n\n\n## Materials from class\n\n#### Slides\n\n - [Andrew](slides-andrew.html)\n- [Iain](slides-iain.html)\n- [Jeremy](slides-jeremy.html)\n- [Shobhana](slides-shobhana.html)\n\n#### Handouts\n\n - [Handout](handout.pdf) \n\n",
     "supporting": [
       "notes_files"
     ],

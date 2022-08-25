@@ -62,6 +62,9 @@ format:
     theme: 
       - sandstone
       - assets/styles.scss
+    toc: true
+    published-title: "class date"
+    reference-location: document
 
 execute:
   freeze: auto
