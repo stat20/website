@@ -193,3 +193,11 @@ And again, if you have questions about the boundaries of the collaboration polic
    If you join the class within the first two weeks, read this course syllabus very carefully, read the lecture notes, take a look at gradescope to get a sense of any assignments that may have already passed, and visit office hours to check that you're up to date with things. The first two weeks of material are very important so you will be able to make up assignments.
    
    After two weeks into the semester, you'll have too much material that you'll need to make up, so you will have to wait to a subsequent semester to take Stat 20.
+   
+5. Why is the final exam date listed here different than the one I see in CalCentral?
+
+   CalCentral automatically shows the default exam date associated with your lecture time. Stat 20 was approved to have a single exam time for all 8 lectures. Therefore the date and time listed here in the syllabus is correct; you can ignore what you see in CalCentral.
+   
+6. What if I have a final for another course at the same time as the Stat 20 final?
+
+   That won't be a problem. We will organize another exam slot for those students with exam conflicts. We'll announce more information about this in November.
