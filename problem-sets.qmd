@@ -4,10 +4,7 @@ listing:
   contents: problem-sets
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
 ---
 
-:::{.callout-caution}
-## 
-This page will be under construction until the start of the semester.
-:::
+Problem sets are due on [Gradescope](https://www.gradescope.com/courses/416233) at 11 pm Monday evenings.
