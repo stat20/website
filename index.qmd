@@ -9,11 +9,7 @@ page-layout: custom
 
 :::::{.content-block}
 ::::{.grid}
-:::{.g-col-12 .g-col-md-6 style="margin: 3em 1em 0em 1em"}
-
-\
-\
-\
+:::{#banner .g-col-12 .g-col-md-6 style="margin: 3em 1em 0em 1em"}
 
 :::{.banner-text}
 Introduction to Probability and Statistics
@@ -21,29 +17,30 @@ Introduction to Probability and Statistics
 
 [Stat 20 UC Berkeley]{.smallcaps}
 
-For information about the course, please [see the FAQ](syllabus.qmd).
+For information about the course, please [see the syllabus](syllabus.qmd).
 
 :::
 
-:::{.g-col-12 .g-col-md-6 style="margin: 0em 1em 0em 1em"}
+:::{#hex .g-col-12 .g-col-md-6 style="margin: 0em 1em 0em 1em"}
 ![](assets/stat20-hex.png){fig-alt="Hex logo of Stat 20 showing a golden bear."}
 :::
 ::::
 :::::
 
-<!-- ::::columns -->
-<!-- :::{.column width=5%} -->
+<!-- :::::{.content-block} -->
+<!-- ::::{.grid} -->
+<!-- :::{.g-col-12 .g-col-md-4} -->
+<!-- hello -->
 <!-- ::: -->
-<!-- :::{.column width=40%} -->
-<!-- :::{recent-notes} -->
+
+<!-- :::{.g-col-12 .g-col-md-4} -->
+<!-- there -->
 <!-- ::: -->
+
+<!-- :::{.g-col-12 .g-col-md-4} -->
+<!-- you -->
 <!-- ::: -->
-<!-- :::{.column width=10%} -->
-<!-- ::: -->
-<!-- :::{.column width=40%} -->
-<!-- :::{#recent-labs} -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- :::{.column width=5%} -->
-<!-- ::: -->
+
 <!-- :::: -->
+<!-- ::::: -->
+
