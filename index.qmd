@@ -1,10 +1,26 @@
 ---
 toc: false
 page-layout: custom
-# listing:
-#   id: recent-labs
-#   contents: labs
-#   page-size: 2
+listing:
+  - id: recent-notes
+    type: grid
+    grid-columns: 1
+    contents: class-materials/*/notes.qmd
+    page-size: 1
+    fields: [title]
+  - id: recent-labs
+    type: grid
+    grid-columns: 1
+    contents: labs
+    page-size: 1
+    fields: [title]
+  - id: recent-ps
+    type: grid
+    grid-columns: 1
+    contents: problem-sets
+    page-size: 1
+    fields: [title]
+  
 ---
 
 :::::{.content-block}
@@ -27,20 +43,32 @@ For information about the course, please [see the syllabus](syllabus.qmd).
 ::::
 :::::
 
-<!-- :::::{.content-block} -->
-<!-- ::::{.grid} -->
-<!-- :::{.g-col-12 .g-col-md-4} -->
-<!-- hello -->
-<!-- ::: -->
+:::::{.content-block}
 
-<!-- :::{.g-col-12 .g-col-md-4} -->
-<!-- there -->
-<!-- ::: -->
+#### Current Material
 
-<!-- :::{.g-col-12 .g-col-md-4} -->
-<!-- you -->
-<!-- ::: -->
+::::{.grid}
+:::{.g-col-12 .g-col-md-4}
 
-<!-- :::: -->
-<!-- ::::: -->
+:::{#recent-notes}
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-4}
+
+:::{#recent-labs}
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-4}
+
+:::{#recent-ps}
+:::
+
+:::
+
+::::
+:::::
 
