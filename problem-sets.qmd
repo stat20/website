@@ -7,4 +7,4 @@ listing:
   categories: false
 ---
 
-Problem sets are due on [Gradescope](https://www.gradescope.com/courses/416233) at 11 pm Monday evenings.
+\

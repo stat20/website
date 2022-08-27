@@ -1,5 +1,5 @@
 ---
-title: "Lab 1: Getting Started with RStudio and Markdown"
+title: "Lab 1: Getting Started"
 ---
 
 [[Discuss]{.btn .btn-primary}](https://app.perusall.com)
