@@ -44,13 +44,13 @@ Monday is a shorter (1 hr) and less-structured class dedicated to finishing up w
 
 #### Plenary lectures
 
-While in general this course does not have full lectures, there are a few select exceptions. Several times during the semester, the course will be hosting a special guest to give a lecture to all 8 sections of Stat 20. These speakers will all be preeminent scientists and data scientists working in academia and industry and will speak on how the ideas and tools and the we discuss in class look in the real world.
+While in general this course does not have full lectures, there are a few select exceptions. Several times during the semester, the course will be hosting a special guest to give a lecture to all 8 sections of Stat 20. These speakers will all be preeminent scientists and data scientists working in academia and industry and will speak on how the ideas and tools and the we discuss in class look in the real world!
 
-The schedule of plenary lectures will be posted to the course schedule as soon as it is finalized. Lectures will generally be Monday evening. If you cannot attend in person, you can alternatively watch a recording of the lecture and complete a related assignment.
+Each plenary lecture will be announced once it has been confirmed. We will send out an RSVP form for you to indicate whether you expect to attend or not. Please fill this out so that we have a good measure of the amount of students we can expect. Those students who do show up will be able to complete an accompanying extra credit assignment on Gradescope worth 0.5 percentage points.
 
 #### Office Hours
 
-Tutors and the instructor will offer office hours each week across a range of times. We ask that you visit the office hours of the instructor of your lab section but you're welcome to visit the office hours of any tutor, not only the one who works in your section. We may adjust the office hour schedule throughout the semester as we understand student needs and preferences.
+Tutors and the instructor will offer office hours each week across a range of times. We ask that you visit the office hours of the instructor of your lab section but you're welcome to visit the office hours of any tutor: not only the one who works in your section. We may adjust the office hour schedule throughout the semester as we understand student needs and preferences.
 
 Please come to office hours! Coming to office hours does not send a signal that you are behind or need extra help. On the contrary, coming to office hours early and often tends to co-occur with success in the course.
 
@@ -80,11 +80,13 @@ The software that we'll be using for our data analysis is the free and open-sour
 
 #### Discussion forum
 
-Out-of-class communication for this course will be held on [Perusall](https://app.perusall.com/courses/stat-20-lec-001). To enroll in your sections' site click on the Perusall link in the left side bar of your sections' bCourses site. This forum is a community space to ask and answer questions with your fellow students and course staff. It's an indispensable resource for staying up-to-date with the course and learning from your peers. It's also the primary method of communicating with staff by making a one-on-one post to the instructor or tutors. In a course this large, the instructors have a difficult time responding to individual emails, so please use the class forum.
+Out-of-class communication for this course will be held on [Ed](https://edstem.org). Keep an eye out for an e-mail invite in the first week of classes. We have this forum so you can ask and answer questions with your fellow students and course staff! It’s really useful for staying up-to-date with the course and learning from your classmates. 
+
+If you would like to communicate with us regarding a personal matter, you can do that in Ed by flagging your post as private, or you can e-mail! Your instructor will indicate their preference for you, or if they don't, you can ask your instructor for what they prefer.
 
 #### Course website
 
-All of the assignments will be posted to the course website at [https://stat20.org](https://stat20.org). This also holds the course notes, the syllabus, and links to Gradescope, Perusall, and RStudio.
+All of the assignments will be posted to the course website at [https://stat20.org](https://stat20.org). This also holds the course notes, the syllabus, and links to Gradescope, Ed, and RStudio.
 
 ### Assignments, Exams, and Grading
 
@@ -119,11 +121,13 @@ The final exam will be held in person during finals week. The Stat 20 Final is s
 
 Your final grade in the course will be computed based on:
 
-- Labs 60%
+- Labs: 60%
 - Reading Questions: 5%
 - Quizzes 10%
 - Problem sets 5%
 - Final 20%
+
+Within each category, each assignment is equally weighted. For example, within the Labs category, each Lab has equal weight. 
 
 The goal of your course staff is to help you develop and demonstrate your mastery of the material. As such, the course will not be curved and standard cutoffs will be used to determiner letter grades (> 90% is some kind of A, etc.). Additionally, your weakest problem set and quiz will be dropped before calculating your grade for the course.
 
@@ -136,6 +140,8 @@ Stat 20 is a course that is designed to allow all students to succeed. If you ha
 #### Late Work
 
 Unfortunately, with a class of this size, we are unable to keep track of and grade submissions of labs, reading question, and problem sets that come in very late. If you narrowly miss the 11 pm deadline, you will still be able to submit until midnight with a small grade penalty (10% reduction in score). If you're still not done with your lab by midnight, you can submit until noon on Tuesday with a larger penalty (30% reduction).
+
+We (instructors) do recognize there are things going on in each of your lives which you might need to handle throughout the course. Because of this, when it comes to labs, we’re going to give you **one two-day extension** (until Wednesday at 11p), no questions asked. To use the extension, we ask that you notify us, by private Ed post or through e-mail of your decision *before* the standard due date of Monday at 11pm.
 
 
 ### Collaboration policy
