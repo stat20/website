@@ -110,7 +110,9 @@ From Lab 2 forward, we will exact a *10 percent penalty* on any labs which fail 
 
 #### Problem Sets
 
-The problem set is meant as practice: practice with the concepts and methods from the lecture notes that you'll need to hone in order to do the labs well and succeed on the quizzes. Since the goal of these is just practice, they will be graded credit / no credit, where credit is an earnest attempt (evidence that you worked on most of the problems). They will also be due at the standard assignment deadline of 11 pm on Monday night.
+The problem set is meant as practice: practice with the concepts and methods from the lecture notes that you'll need to hone in order to do the labs well and succeed on the quizzes. The problems will be selected from handouts that we will work on in class, so if you work on the in-class handouts, you will in essence be completing part of your problem set.
+
+Since the goal of these is just practice, they will be graded credit / no credit, where credit is an earnest attempt (evidence that you worked on most of the problems). They will also be due at the standard assignment deadline of 11 pm on Monday night.
 
 To make sure that the problem sets also serve as study material, we will be providing video solutions to them. The videos will be recorded by the instructional staff and will be released Tuesday morning at 8am (the morning after the deadline).
 
