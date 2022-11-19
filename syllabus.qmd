@@ -100,34 +100,54 @@ Labs are long-form assignments designed to apply the concepts from the lecture n
 
 There will be a lab every week or two that will be due at the standard assignment deadline of 11 pm on Monday night, on Gradescope.
 
+Because the labs take a while to grade, we will be giving completion grade credit to the majority of problems and assessing a select few questions (decided after the due date) for credit.
+
+We (instructors) do recognize there are things going on in each of your lives which you might need to handle throughout the course. Because of this, when it comes to labs, we’re going to give you **one, two-day extension** (until Wednesday at 11p), no questions asked. To use the extension, we ask that you notify us, by private Ed post or through e-mail of your decision *before* the standard due date of Monday at 11pm.
+
 ##### Submission Format 
 
 Labs are to be submitted as PDF files rendered from Quarto Documents (.qmd). Don't worry if you're not familiar with the Quarto Document as we will teach you about it! The PDF-from-QMD format is both attractive and readable when it comes to grading. 
 
 We also ask that you make sure to assign your page(s) to each lab questions when prompted by Gradescope to do so before you confirm your submission. This allows graders to work quicker and therefore get your papers back to you quicker. 
 
-From Lab 2 forward, we will exact a *10 percent penalty* on any labs which fail to meet these formatting requirements. This penalty will apply *on top* of the standard late penalty which will be described below in the **Late Work** section of this syllabus.
+Starting with Lab 2 and for the rest of the semester, we will exact a *10 percent penalty* on any labs which fail to meet these formatting requirements. This penalty will apply *on top* of the standard late penalty which will be described below in the **Late Work** section of this syllabus.
+
 
 #### Problem Sets
 
-The problem set is meant as practice: practice with the concepts and methods from the lecture notes that you'll need to hone in order to do the labs well and succeed on the quizzes. The problems will be selected from handouts that we will work on in class, so if you work on the in-class handouts, you will in essence be completing part of your problem set.
+The problem set is meant as practice: practice with the concepts and methods from the lecture notes that you'll need to hone in order to do the labs well and succeed on the quizzes. The problems will be selected from handouts that we will work on in class, so if you work on the in-class handouts, you will in essence be completing part of your problem set. The run more like traditional homework assignments that drill the concepts you've learned in the reading notes rather than ask you to apply what you've learned in a new setting (such as in the labs).
 
 Since the goal of these is just practice, they will be graded credit / no credit, where credit is an earnest attempt (evidence that you worked on most of the problems). They will also be due at the standard assignment deadline of 11 pm on Monday night.
 
-To make sure that the problem sets also serve as study material, we will be providing video solutions to them. The videos will be recorded by the instructional staff and will be released Tuesday morning at 8am (the morning after the deadline).
+Problem sets will be released weekly or biweekly. To make sure that the problem sets also serve as study material, *we will be providing video solutions to them.* The videos will be recorded by the instructional staff and will be released *Tuesday morning at 8am (the morning after the deadline).*
+
+You will be given one problem set drop during the semester, meaning that the lowest problem set score you attain will be dropped. Note these assignments are completion grade anyway, so this essentially means you can skip one problem set if you'd like.
 
 ##### Submission Format
 
-Since the problem sets are completion grade, we do not require any submission format other than one which can be easily graded. 
+Since the problem sets are completion grade, we do not require any submission format other than one which is easily readable, though we strongly prefer PDF files rendered from Quarto Documents (.qmd).
 
 #### Reading Questions
 
-Reading questions serve to check your understanding and engagement while going through the lecture notes prior to class. There will be a handful of questions per “lecture” and can be a mix of multiple choice, short answer, and coding questions. You can answer them directly on Gradescope. Note that the reading questions will be due 11 pm the night before class, that is, on 11 pm Tuesdays for the Wednesday lecture, and 11 pm Thursdays for the Friday lecture.
+Reading questions serve to check your understanding and engagement while going through the lecture notes prior to class. There will be a handful of questions per “lecture” and they can be a mix of multiple choice, short answer, and coding questions. You will answer them directly on Gradescope. Note that the reading questions will be due 11 pm the night before class: that is, on 11 pm Tuesdays for the Wednesday lecture, and 11 pm Thursdays for the Friday lecture.
 
 
 #### Quizzes
 
-Quizzes reinforce the most important concepts from the lecture notes and provide your the opportunity to work through misunderstandings with peers and the instructor. Quizzes will take place roughly every other week at the beginning of class for ~20 minutes. After submission of quizzes, you'll have ~10 minutes to discuss your answers with your group and prepare a single group submission. Your quiz score will be an average of the two.
+Quizzes will be held biweekly on Thursday nights/Fridays.
+
+Quizzes reinforce the most important concepts from the lecture notes and provide your the opportunity to work through misunderstandings with peers and the instructor. 
+
+Each quiz has two components: an *individual* component to be completed the night before class (Thursday night), and a *group* component to be completed in class with a group ranging from 2 to 4 students. 
+
+The *individual* component will take the place of the Thursday night reading on the week of the quiz. It will be released at 6pm and will be due at 11pm on Gradescope. It has a 25 minute time limit.
+
+The *group* component will take place during the first 15 minutes of class on Friday. It will be due on Gradescope as a group submission, meaning that only one member of your group need submit. Once the submission has gone through, you can add your group members on the following page. Make sure to add them by e-mail if it allows, since there may be multiple students with the same first and last name enrolled in the course! 
+
+
+Your final (composite) quiz grade will be the **average** of your group and individual quiz scores. Should you not be able to attend class to take the group quiz due to extenuating circumstances (illness, family emergency, etc.), you may fill out a form that we will send out to you via e-amil prior to Friday. 
+
+You will be given *one* overall quiz drop, meaning that the lowest composite score you attain on a quiz will be dropped.
 
 #### Exam
 
@@ -145,7 +165,7 @@ Your final grade in the course will be computed based on:
 
 Within each category, each assignment is equally weighted. For example, within the Labs category, each Lab has equal weight. 
 
-The goal of your course staff is to help you develop and demonstrate your mastery of the material. As such, the course will not be curved and standard cutoffs will be used to determiner letter grades (> 90% is some kind of A, etc.). Additionally, your weakest problem set and quiz will be dropped before calculating your grade for the course.
+The goal of your course staff is to help you develop and demonstrate your mastery of the material. As such, the course will not be curved and standard cutoffs will be used to determiner letter grades (> 90% is some kind of A, etc.). 
 
 ### Policies
 
@@ -155,9 +175,9 @@ Stat 20 is a course that is designed to allow all students to succeed. If you ha
 
 #### Late Work
 
-Unfortunately, with a class of this size, we are unable to keep track of and grade submissions of labs, reading question, and problem sets that come in very late. If you narrowly miss the 11 pm deadline, you will still be able to submit until midnight with a small grade penalty (10% reduction in score). If you're still not done with your lab by midnight, you can submit until noon on Tuesday with a larger penalty (30% reduction).
+This message applies in cases where a drop or extension has not been or has already been used.
 
-We (instructors) do recognize there are things going on in each of your lives which you might need to handle throughout the course. Because of this, when it comes to labs, we’re going to give you **one two-day extension** (until Wednesday at 11p), no questions asked. To use the extension, we ask that you notify us, by private Ed post or through e-mail of your decision *before* the standard due date of Monday at 11pm.
+Unfortunately, with a class of this size, we are unable to keep track of and grade submissions of labs, reading question, and problem sets that come in very late. If you narrowly miss the 11 pm deadline, you will still be able to submit until midnight with a small grade penalty (10% reduction in score). If you're still not done with your lab by midnight, you can submit until noon on Tuesday with a larger penalty (30% reduction).
 
 
 ### Collaboration policy
