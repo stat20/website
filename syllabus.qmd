@@ -112,16 +112,18 @@ We also ask that you make sure to assign your page(s) to each lab questions when
 
 Starting with Lab 2 and for the rest of the semester, we will exact a *10 percent penalty* on any labs which fail to meet these formatting requirements. This penalty will apply *on top* of the standard late penalty which will be described below in the **Late Work** section of this syllabus.
 
+#### Attendance Grade: In-class handouts
+
+During class, we will give you a second engagement with the day's material in the form of a two-sided worksheet. These worksheets will run like traditional homework problems and drill the concepts in the reading notes rather than asking you to apply the concepts with a data set, like the lab does. **This handout will be given out in class only, and you will be graded credit/no credit by the tutors toward the end of the period.** Credit will be given if tutors determine that you've given most problems an earnest shot.
+
+*The intention for you is not to get these questions completely done the day they are released!* You can work on that over the next couple of weeks in preparation to turn them in for the problem set, which is detailed below.
+
 
 #### Problem Sets
 
-The problem set is meant as practice: practice with the concepts and methods from the lecture notes that you'll need to hone in order to do the labs well and succeed on the quizzes. The problems will be selected from handouts that we will work on in class, so if you work on the in-class handouts, you will in essence be completing part of your problem set. The run more like traditional homework assignments that drill the concepts you've learned in the reading notes rather than ask you to apply what you've learned in a new setting (such as in the labs).
+The problem sets will be procured completely from the in-class handouts and released in two week intervals. In other words, we will take the exercises from the handouts over a span of two class weeks and release them together as a Problem Set (online as a PDF and on Gradescope) on the Friday night of the second week. **It will then be due on the following Monday.**
 
-Since the goal of these is just practice, they will be graded credit / no credit, where credit is an earnest attempt (evidence that you worked on most of the problems). They will also be due at the standard assignment deadline of 11 pm on Monday night.
-
-Problem sets will be released weekly or biweekly. To make sure that the problem sets also serve as study material, *we will be providing video solutions to them.* The videos will be recorded by the instructional staff and will be released *Tuesday morning at 8am (the morning after the deadline).*
-
-You will be given one problem set drop during the semester, meaning that the lowest problem set score you attain will be dropped. Note these assignments are completion grade anyway, so this essentially means you can skip one problem set if you'd like.
+You will be given one problem set drop during the semester, meaning that the lowest problem set score you attain will be dropped. 
 
 ##### Submission Format
 
@@ -149,7 +151,7 @@ Your final (composite) quiz grade will be the **average** of your group and indi
 
 You will be given *one* overall quiz drop, meaning that the lowest composite score you attain on a quiz will be dropped.
 
-#### Exam
+#### Final Exam
 
 The final exam will be held in person during finals week. The Stat 20 Final is scheduled to be held in Group 11: Wednesday 12/14/22 from 3-6pm.
 
@@ -157,11 +159,12 @@ The final exam will be held in person during finals week. The Stat 20 Final is s
 
 Your final grade in the course will be computed based on:
 
-- Labs: 60%
+- Labs: 50%
+- Final: 20%
+- Problem Sets: 10%
+- Quizzes: 10%
+- Attendance: 5%
 - Reading Questions: 5%
-- Quizzes 10%
-- Problem sets 5%
-- Final 20%
 
 Within each category, each assignment is equally weighted. For example, within the Labs category, each Lab has equal weight. 
 
